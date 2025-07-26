@@ -1,13 +1,13 @@
 # Welcome bro! 🌟
 
 ## Yo, what's up!
-I'm Sanzhar, a chill student. This page is where I drop my cool projects and little doodles. Stay tuned for some fun stuff!
+I'm Sanzhar, a chill guy. This page is where I drop my cool projects and little doodles. Stay tuned for some fun stuff!
 
 ## Education:
 - University: Higher School of Economics
 - Faculty: Higher School of Business
 - Major: Business Informatics
-- Year: 3rd
+- Year: Finished
 
 ## Skills 🚀
 - Python: Solving algorithmic problems, data analysis (numpy, pandas), machine learning
